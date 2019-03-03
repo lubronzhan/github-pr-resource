@@ -1,0 +1,5 @@
+import:
+- package: github.com/google/go-github/github
+  version: master
+- package: github.com/shurcooL/githubv4
+  version: master

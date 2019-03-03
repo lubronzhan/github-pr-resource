@@ -1,4 +1,4 @@
-DOCKER_REPO  = teliaoss/github-pr-resource
+DOCKER_REPO  = lubron/github-pr-resource
 TARGET      ?= darwin
 ARCH        ?= amd64
 SRC          = $(shell find . -type f -name '*.go' -not -path "./vendor/*")
